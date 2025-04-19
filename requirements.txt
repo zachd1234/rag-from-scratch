@@ -1,0 +1,8 @@
+llama-index
+python-dotenv
+openai
+python-docx
+PyPDF2
+requests
+beautifulsoup4
+faiss-cpu 
